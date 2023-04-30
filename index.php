@@ -6,7 +6,7 @@
     <body>
         <center>
         <div id="headersection">
-            <h1 id="h1">Online Voting System</h1>
+            <h1 id="h1">Online Voting Systems</h1>
         <hr>
         </div>
 

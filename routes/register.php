@@ -5,7 +5,7 @@
     </head>
     <style>
         #address{
-            width: 28%;
+            width: 29%;
             
         }
         #imagepart {
@@ -43,7 +43,7 @@
             <input id="address" type="text" name="address" placeholder="Address"><br><br>
           
                 <div id="imagepart">
-                    Upload image:<input type="file" name="photo" placeholder="photo"> <br><br>
+                    Upload images:<input type="file" name="photo" placeholder="photo"> <br><br>
     
                 </div> <br>
                 <div id="role">
